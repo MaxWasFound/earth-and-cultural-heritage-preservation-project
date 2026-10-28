@@ -5,9 +5,9 @@
   <br />
   An educational exploration game built with Microsoft MakeCode Arcade.
   <br /><br />
-  <a href="https://moinack66.github.io/earth-and-cultural-heritage-preservation-project/"><strong>▶ PLAY THE GAME</strong></a>
+  <a href="https://maxwasfound.github.io/earth-and-cultural-heritage-preservation-project/"><strong>▶ PLAY THE GAME</strong></a>
   &nbsp; • &nbsp;
-  <a href="https://github.com/Moinack66/earth-and-cultural-heritage-preservation-project"><strong>EXPLORE THE SOURCE</strong></a>
+  <a href="https://github.com/MaxWasFound/earth-and-cultural-heritage-preservation-project"><strong>EXPLORE THE SOURCE</strong></a>
 </p>
 
 ---
@@ -22,17 +22,15 @@ Originally created around four years ago, this project represents an early step 
 
 ## ✨ Features
 
-- 🌎 **Landmark exploration** — travel through levels inspired by places around the world.
+- 🌎 **Landmark exploration** — explore levels inspired by places around the world.
 - 🧭 **Interactive guides** — meet characters who introduce landmarks and share information.
 - 📖 **Educational dialogue** — discover historical facts through in-game conversations.
-- 🗺️ **Multi-level progression** — advance by discovering designated tiles and pathways.
-- 🎯 **Gameplay challenges** — navigate obstacles and encounter characters along the way.
+- 🗺️ **Multi-level progression** — advance through designated tiles and pathways.
+- 🎯 **Gameplay challenges** — navigate obstacles and encounter characters.
 - 🏁 **Win condition** — reach the final goal to complete the game.
-- 🌐 **Browser-based gameplay** — play online without a separate game installation.
+- 🌐 **Browser-based gameplay** — play online without a separate installation.
 
 ## 🏛️ Discover the Landmarks
-
-The game features guides introducing several well-known landmarks:
 
 | Landmark | Country |
 | --- | --- |
@@ -42,17 +40,11 @@ The game features guides introducing several well-known landmarks:
 | Machu Picchu | Peru |
 | Christ the Redeemer | Brazil |
 
-Each location provides an opportunity to explore cultural heritage through a game rather than a conventional reading experience.
-
 ## 🕹️ Play the Game
 
-Ready to explore?
+**[🌐 Launch Earth & Cultural Heritage Preservation](https://maxwasfound.github.io/earth-and-cultural-heritage-preservation-project/)**
 
-<p align="center">
-  <a href="https://moinack66.github.io/earth-and-cultural-heritage-preservation-project/"><strong>🌐 LAUNCH THE GAME →</strong></a>
-</p>
-
-The game is hosted on GitHub Pages. Open the link in a modern browser and follow the in-game dialogue to progress.
+The game is hosted on GitHub Pages. Open it in a modern browser and follow the in-game dialogue to progress.
 
 ## 🛠️ Built With
 
@@ -62,23 +54,19 @@ The game is hosted on GitHub Pages. Open the link in a modern browser and follow
 | TypeScript | Game logic and event handling |
 | Sprites and tilemaps | Characters, environments, and level design |
 | Custom game assets | Visual elements and landmark-themed characters |
-| GitHub Pages | Browser-based game hosting |
+| GitHub Pages | Browser-based hosting |
 
 ## 🧠 What the Project Demonstrates
-
-This project reflects practical experience with:
 
 - Event-driven programming
 - Sprite interactions and collision events
 - Tile-based level design
 - Conditional logic and game progression
 - Dialogue systems and interactive storytelling
-- Organizing game assets and source files
+- Game asset and source-file organization
 - Publishing a playable project on the web
 
 ## 🔍 Explore the Source Code
-
-The repository includes the code and assets used to build the game.
 
 - [`main.ts`](main.ts) — core gameplay logic and interactions
 - [`main.blocks`](main.blocks) — MakeCode block representation
@@ -90,9 +78,9 @@ The repository includes the code and assets used to build the game.
 
 1. Visit [Microsoft MakeCode Arcade](https://arcade.makecode.com/).
 2. Select **Import → Import URL**.
-3. Enter the repository URL:
+3. Enter this repository URL:
 
-   `https://github.com/Moinack66/earth-and-cultural-heritage-preservation-project`
+   `https://github.com/MaxWasFound/earth-and-cultural-heritage-preservation-project`
 
 4. Explore the project, inspect its logic, or experiment with your own changes.
 
@@ -102,18 +90,16 @@ Cultural heritage connects people to the history, creativity, and achievements o
 
 This project explores a simple idea: **learning becomes more engaging when people can interact with what they are learning about.**
 
-By combining landmarks, characters, and exploration, the game turns historical discovery into a small interactive experience.
+By combining landmarks, characters, and exploration, the game turns historical discovery into an interactive experience.
 
 ## 👨‍💻 Created By
 
 **Moinack Saha**
 
-- GitHub: [@Moinack66](https://github.com/Moinack66)
-- Project repository: [Earth & Cultural Heritage Preservation](https://github.com/Moinack66/earth-and-cultural-heritage-preservation-project)
-- Play online: [Launch the game](https://moinack66.github.io/earth-and-cultural-heritage-preservation-project/)
+- GitHub: [@MaxWasFound](https://github.com/MaxWasFound)
+- Repository: [Earth & Cultural Heritage Preservation](https://github.com/MaxWasFound/earth-and-cultural-heritage-preservation-project)
+- Play online: [Launch the game](https://maxwasfound.github.io/earth-and-cultural-heritage-preservation-project/)
 
 ---
 
 <p align="center">
-  <strong>🌍 Explore more. Learn more. Preserve our shared heritage.</strong>
-</p>
