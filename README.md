@@ -1,66 +1,119 @@
- 
+# 🌍 Earth & Cultural Heritage Preservation
 
+<p align="center">
+  <strong>Explore the world. Discover its landmarks. Learn the stories behind our heritage.</strong>
+  <br />
+  An educational exploration game built with Microsoft MakeCode Arcade.
+  <br /><br />
+  <a href="https://moinack66.github.io/earth-and-cultural-heritage-preservation-project/"><strong>▶ PLAY THE GAME</strong></a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/Moinack66/earth-and-cultural-heritage-preservation-project"><strong>EXPLORE THE SOURCE</strong></a>
+</p>
 
-> Open this page at [https://moinack66.github.io/earth-and-cultural-heritage-preservation/](https://moinack66.github.io/earth-and-cultural-heritage-preservation/)
+---
 
-## Use as Extension
+## 🎮 About the Project
 
-This repository can be added as an **extension** in MakeCode.
+**Earth & Cultural Heritage Preservation** is an educational game designed to make discovering the world's famous landmarks more interactive.
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/moinack66/earth-and-cultural-heritage-preservation** and import
+Players explore different levels, encounter in-game guides, and learn about historical landmarks through conversations and gameplay. The experience combines exploration, simple challenges, and educational storytelling in a browser-playable game.
 
-## Edit this project ![Build status badge](https://github.com/moinack66/earth-and-cultural-heritage-preservation/workflows/MakeCode/badge.svg)
+Originally created around four years ago, this project represents an early step in my journey as a developer—and a reminder that building something playable is one of the best ways to learn.
 
-To edit this repository in MakeCode.
+## ✨ Features
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/moinack66/earth-and-cultural-heritage-preservation** and click import
+- 🌎 **Landmark exploration** — travel through levels inspired by places around the world.
+- 🧭 **Interactive guides** — meet characters who introduce landmarks and share information.
+- 📖 **Educational dialogue** — discover historical facts through in-game conversations.
+- 🗺️ **Multi-level progression** — advance by discovering designated tiles and pathways.
+- 🎯 **Gameplay challenges** — navigate obstacles and encounter characters along the way.
+- 🏁 **Win condition** — reach the final goal to complete the game.
+- 🌐 **Browser-based gameplay** — play online without a separate game installation.
 
-## Blocks preview
+## 🏛️ Discover the Landmarks
 
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
+The game features guides introducing several well-known landmarks:
 
-![A rendered view of the blocks](https://github.com/moinack66/earth-and-cultural-heritage-preservation/raw/master/.github/makecode/blocks.png)
+| Landmark | Country |
+| --- | --- |
+| Taj Mahal | India |
+| Colosseum | Italy |
+| Chichén Itzá | Mexico |
+| Machu Picchu | Peru |
+| Christ the Redeemer | Brazil |
 
-#### Metadata (used for search, rendering)
+Each location provides an opportunity to explore cultural heritage through a game rather than a conventional reading experience.
 
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+## 🕹️ Play the Game
 
+Ready to explore?
 
+<p align="center">
+  <a href="https://moinack66.github.io/earth-and-cultural-heritage-preservation-project/"><strong>🌐 LAUNCH THE GAME →</strong></a>
+</p>
 
-> Open this page at [https://moinack66.github.io/earth-and-cultural-heritage-preservation-project/](https://moinack66.github.io/earth-and-cultural-heritage-preservation-project/)
+The game is hosted on GitHub Pages. Open the link in a modern browser and follow the in-game dialogue to progress.
 
-## Use as Extension
+## 🛠️ Built With
 
-This repository can be added as an **extension** in MakeCode.
+| Technology | Role |
+| --- | --- |
+| Microsoft MakeCode Arcade | Game development environment |
+| TypeScript | Game logic and event handling |
+| Sprites and tilemaps | Characters, environments, and level design |
+| Custom game assets | Visual elements and landmark-themed characters |
+| GitHub Pages | Browser-based game hosting |
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/moinack66/earth-and-cultural-heritage-preservation-project** and import
+## 🧠 What the Project Demonstrates
 
-## Edit this project ![Build status badge](https://github.com/moinack66/earth-and-cultural-heritage-preservation-project/workflows/MakeCode/badge.svg)
+This project reflects practical experience with:
 
-To edit this repository in MakeCode.
+- Event-driven programming
+- Sprite interactions and collision events
+- Tile-based level design
+- Conditional logic and game progression
+- Dialogue systems and interactive storytelling
+- Organizing game assets and source files
+- Publishing a playable project on the web
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/moinack66/earth-and-cultural-heritage-preservation-project** and click import
+## 🔍 Explore the Source Code
 
-## Blocks preview
+The repository includes the code and assets used to build the game.
 
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
+- [`main.ts`](main.ts) — core gameplay logic and interactions
+- [`main.blocks`](main.blocks) — MakeCode block representation
+- [`tilemap.g.ts`](tilemap.g.ts) — generated tilemap definitions
+- [`images.g.ts`](images.g.ts) — generated image assets
+- [`pxt.json`](pxt.json) — project configuration and dependencies
 
-![A rendered view of the blocks](https://github.com/moinack66/earth-and-cultural-heritage-preservation-project/raw/master/.github/makecode/blocks.png)
+### Open the project in MakeCode Arcade
 
-#### Metadata (used for search, rendering)
+1. Visit [Microsoft MakeCode Arcade](https://arcade.makecode.com/).
+2. Select **Import → Import URL**.
+3. Enter the repository URL:
 
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+   `https://github.com/Moinack66/earth-and-cultural-heritage-preservation-project`
+
+4. Explore the project, inspect its logic, or experiment with your own changes.
+
+## 🌱 The Idea Behind It
+
+Cultural heritage connects people to the history, creativity, and achievements of civilizations around the world.
+
+This project explores a simple idea: **learning becomes more engaging when people can interact with what they are learning about.**
+
+By combining landmarks, characters, and exploration, the game turns historical discovery into a small interactive experience.
+
+## 👨‍💻 Created By
+
+**Moinack Saha**
+
+- GitHub: [@Moinack66](https://github.com/Moinack66)
+- Project repository: [Earth & Cultural Heritage Preservation](https://github.com/Moinack66/earth-and-cultural-heritage-preservation-project)
+- Play online: [Launch the game](https://moinack66.github.io/earth-and-cultural-heritage-preservation-project/)
+
+---
+
+<p align="center">
+  <strong>🌍 Explore more. Learn more. Preserve our shared heritage.</strong>
+</p>
